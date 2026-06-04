@@ -2,35 +2,69 @@
 
 ## Overview
 
-Automation architectures designed to integrate business systems, AI workflows, communication platforms, CRMs, and operational processes.
+This repository documents automation architectures designed to connect AI systems, APIs, CRMs, communication platforms, payment systems, and operational workflows.
+
+The focus is on practical automation that reduces manual effort, improves operational efficiency, and enables scalable business operations.
+
+---
 
 ## Technologies
 
+### Automation
+
 * Zapier
-* Make
-* OpenAI
-* Webhooks
+* Make.com
+* n8n-compatible architectures
+
+### APIs
+
 * REST APIs
+* JSON
+* Webhooks
+
+### AI
+
+* OpenAI
+* GPT-4o
+* AI Agents
+
+### CRM & Operations
+
+* Ontraport
+* HubSpot-compatible workflows
+* Salesforce-compatible workflows
+
+### Communications
+
 * Twilio
 * Slack
-* CRM Platforms
-* Docker
-* AWS
+* Email Platforms
 
-## Key Engineering Areas
+### Infrastructure
+
+* Docker
+* AWS Ubuntu Linux
+
+---
+
+## Engineering Focus
 
 * Workflow Automation
 * API Integrations
-* Event-Driven Systems
 * CRM Synchronization
 * AI-Assisted Operations
-* Notification Systems
-* Operational Automation
+* Event-Driven Systems
+* Business Process Automation
+* Operational Visibility
+* Error Recovery
+
+---
 
 ## Business Outcomes
 
 * Reduced manual processing
-* Faster workflow execution
-* Improved operational visibility
+* Faster response times
+* Improved workflow consistency
+* Better operational visibility
 * Scalable automation design
-* Reliable system integrations
+* Increased system reliability
