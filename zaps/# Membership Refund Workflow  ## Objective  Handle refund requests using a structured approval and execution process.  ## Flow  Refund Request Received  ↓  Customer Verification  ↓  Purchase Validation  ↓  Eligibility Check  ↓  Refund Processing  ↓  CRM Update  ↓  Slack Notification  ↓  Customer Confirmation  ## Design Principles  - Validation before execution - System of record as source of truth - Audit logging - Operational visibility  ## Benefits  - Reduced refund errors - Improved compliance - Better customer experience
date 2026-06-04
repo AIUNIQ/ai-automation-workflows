@@ -1,0 +1,50 @@
+# Membership Refund Workflow
+
+## Objective
+
+Handle refund requests using a structured approval and execution process.
+
+## Flow
+
+Refund Request Received
+
+↓
+
+Customer Verification
+
+↓
+
+Purchase Validation
+
+↓
+
+Eligibility Check
+
+↓
+
+Refund Processing
+
+↓
+
+CRM Update
+
+↓
+
+Slack Notification
+
+↓
+
+Customer Confirmation
+
+## Design Principles
+
+- Validation before execution
+- System of record as source of truth
+- Audit logging
+- Operational visibility
+
+## Benefits
+
+- Reduced refund errors
+- Improved compliance
+- Better customer experience
